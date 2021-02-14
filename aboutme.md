@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! I'm Manogna Sreenivas. I'm currently pursuing a PhD in Computer Vision at IISc. Earlier I worked as a Software Engineer at PathPartner Technology. Even earlier, I graduated with a BTech in EEE from NITK Surathkal. Curious and wanting to decode how machine learning models work. I believe they ain't really black boxes. After all we live in a probabilistic world and the artificial intelligence almost always about getting to meet human intelligence. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I like doing these: 
 
-What else do you need?
+- Doodling once in a bluemoon :P
+- Started learning some carnatic music
+- Solve Rubik's cube-ish puzzles.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
